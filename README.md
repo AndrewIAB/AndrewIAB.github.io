@@ -1,7 +1,7 @@
 # Welcome to my user page!
 
 ## Who am I
-I'm a hobbyist student who's been self taught in computer science for over half a decade. Though I spend a lot of time with higher level projects such as game engines and lighting simulations, I also tend to do a lot of lower-level work, such as writing pure x86 assembly driver code and designing simple 8-bit processor.
+I'm a hobbyist student who's been self taught in computer science for over half a decade. Though I spend a lot of time with higher level projects such as game engines and lighting simulations, I also tend to do a lot of lower-level work, such as writing pure x86 assembly driver code and designing processors.
 
 My profile is unfortunately sparse, as I don't usually go through the effort of uploading my projects unless I'm intending to showcase them (something I've meaning to work on!!), although most of my work can sometimes be purely pen-and-paper while I'm working out how to solve a problem.
 
